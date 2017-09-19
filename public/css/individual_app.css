@@ -1,0 +1,25 @@
+.resume{
+    margin-left:250px;
+    text-align: center;
+}
+.resume a{
+    margin-left: 400px;
+}
+.individual{
+    margin:auto;
+    width: 450px !important;
+    padding: 20px;
+    background-color: #d5d5d5;
+}
+.pro{
+    width: 500px !important;
+    margin: 0;
+    text-align: center;
+    height: 100%;
+    padding-left: 200px;
+    float: left;
+    position: relative;
+}
+.pro img{
+    width: 200px;
+}

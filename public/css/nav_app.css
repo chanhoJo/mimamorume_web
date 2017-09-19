@@ -1,0 +1,63 @@
+.nav{
+    margin: auto;
+}
+
+.logo{
+    margin: 10px 80px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.nav .zeta-wrap{
+    display: inline;
+    height: 50px;
+    position: relative;
+}
+
+.nav .zeta-menu {
+    display: inline;
+    text-align: center;
+}
+.nav .zeta-menu li {
+    display: inline-block;
+    list-style:none;
+    position: relative;
+    width: 130px;
+    height: 50px;
+    font-size: 18px;
+}
+.nav .zeta-menu li:hover {
+    background: white;
+}
+.nav .zeta-menu li:hover>a {
+    color: #5059a8;
+}
+.nav .zeta-menu a {
+    color: white;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.nav .zeta-menu ul {
+    background: white;
+    display: none;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+    width: 130px;
+    text-align: center;
+}
+
+.nav .zeta-menu ul li:hover {
+    background: #5059a8;
+}
+.nav .zeta-menu ul li:hover a {
+    color: white;
+}
+.nav .zeta-menu ul a {
+    color: black;
+}
+.notice{
+    position: relative;
+    width: 250px;
+}

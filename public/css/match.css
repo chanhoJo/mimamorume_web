@@ -1,0 +1,33 @@
+.body{
+    padding: 5%;
+}
+
+.wrap{
+    margin-top: 5%;
+}
+
+.search{
+    vertical-align: middle;
+}
+
+.search tr td span{
+    display: inline-block;
+    width: 95px;
+}
+
+#address_si > li{
+    display: inline-block;
+    list-style:none;
+    position: relative;
+    width: 140px;
+    font-size: 18px;
+    text-align: center;
+}
+table a:link{
+    color: black !important;
+    text-decoration: none !important;
+}
+table a:visited{
+    color: black !important;
+    text-decoration: none !important;
+}
